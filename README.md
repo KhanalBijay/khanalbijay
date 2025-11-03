@@ -1,5 +1,3 @@
-# Hi there, I'm Bijay Khanal 👋
-
 <div align="center">
 
 ![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
@@ -75,7 +73,5 @@ I'm always interested in discussing:
 
 
 ---
-
-**⭐ Star this profile if you found it useful!**
 
 </div>
