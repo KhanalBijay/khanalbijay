@@ -5,7 +5,6 @@
 **Data Scientist | ML Engineer | AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khanalbijay)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanalbijay)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://khanalbijay.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanalbijay13@email.com)
 
@@ -42,7 +41,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -52,7 +51,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanalbijay&theme=dark&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
@@ -66,10 +65,6 @@ I'm always interested in discussing:
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khanalbijay&color=blue&style=flat-square&label=Profile+Views)
-
-*"Data is the new oil, but insights are the refinery that turns it into fuel for innovation."*
-
-
 
 
 ---
